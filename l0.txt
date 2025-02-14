@@ -1,4 +1,4 @@
-trojan://aabaccb-abac-baac-dcba-babaabcacccb@1:1080?security=tls&type=tcp&headerType=none#1403%2F11%2F9
+trojan://aabaccb-abac-baac-dcba-babaabcacccb@1:1080?security=tls&type=tcp&headerType=none#1403%2F11%2F26
 
 vless://c3b2a594-50a0-4351-a951-a63dfc52744d@108.162.193.81:443?encryption=none&security=tls&sni=dkdi6g.bestvpninuae.com&alpn=http%2F1.1&type=ws&host=dkdi6g.bestvpninuae.com&path=%2Fwss#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-108.162.193.81%3A443
 vless://7bf45d7f-4435-4ad2-aa08-6de32c7e2ee7@108.162.195.250:443?encryption=none&security=tls&sni=p2lnox.alligator27.com&alpn=http%2F1.1&type=ws&host=p2lnox.alligator27.com&path=%2Fwss#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-108.162.195.250%3A443
