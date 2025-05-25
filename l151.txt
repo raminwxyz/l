@@ -1,2 +1,0 @@
-trojan://aabaccb-abac-baac-dcba-babaabcacccb@1:1080?security=tls&type=tcp&headerType=none#1404%2F1%2F1
-
